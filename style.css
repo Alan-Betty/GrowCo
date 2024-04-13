@@ -86,7 +86,7 @@ header h1 i {
 
 .home {
     display: flex;
-    background-image: url(../Image/gr1.png);
+    background-image: url(Image/gr1.png);
     padding-top: 27rem;
     padding-bottom: 12rem;
     padding-right: 0.51rem;
